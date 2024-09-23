@@ -1,0 +1,19 @@
+
+Book Number : 1
+Book Title  : Rich dad poor dad
+Author      : Robert Kiyosaki
+ISBN        : 8521
+State       : Rich dad poor dad [ Not Issued ]
+
+Book Number : 1
+Book Title  : Atomic Habits
+Author      : James clear
+ISBN        : 8888
+State       : Atomic Habits [ Issued ]
+
+
+Book Number : 2
+Book Title  : hgugu
+Author      : ffff
+ISBN        : 909
+State       : hgugu [ Not Issued ]

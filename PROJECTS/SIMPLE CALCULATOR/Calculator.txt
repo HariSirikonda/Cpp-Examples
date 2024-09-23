@@ -1,0 +1,50 @@
+
+Addition Operation called.
+Operand 1 : 23
+Operand 2 : 34
+Result : 57
+
+Multiplication Operation called.
+Operand 1 : 45
+Operand 2 : 1.2
+Result : 54
+
+Subtraction Operation called.
+Operand 1 : 45
+Operand 2 : 12
+Result : 33
+
+Addition Operation called.
+Operand 1 : 45
+Operand 2 : 10
+Result : 55
+
+Operation number 1
+Addition Operation called.
+Operand 1 : 12
+Operand 2 : 1.5
+Result : 13.5
+
+Operation number 1
+Subtraction Operation called.
+Operand 1 : 12
+Operand 2 : 10
+Result : 2
+
+Operation number 1
+Addition Operation called.
+Operand 1 : 1
+Operand 2 : 1.5
+Result : 2.5
+
+Operation number 2
+Subtraction Operation called.
+Operand 1 : 1
+Operand 2 : 1
+Result : 0
+
+Operation number 3
+Divition Operation called.
+Operand 1 : 12
+Operand 2 : 2
+Result : 6

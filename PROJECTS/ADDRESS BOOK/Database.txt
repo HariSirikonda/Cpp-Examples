@@ -1,0 +1,35 @@
+
+Contact Number : 1
+Name         : Hari
+Phone Number : 8790414384
+Email Id     : harisirikonda22@gmail.com
+
+Contact Number : 2
+Name         : Krishna Prasad
+Phone Number : 9640459635
+Email Id     : dkrishnaprasad35@gmail.com
+
+Contact Number : 3
+Name         : Ranjith
+Phone Number : 8367397365
+Email Id     : ranjithsample@gmail.com
+
+Contact Number : 4
+Name         : Sri Teja
+Phone Number : 7032024416
+Email Id     : sritejagannoju@gmail.com
+
+Contact Number : 5
+Name         : yash
+Phone Number : 9492281026
+Email Id     : chennammanaswini345@gmail.com
+
+Contact Number : 6
+Name         : Navya
+Phone Number : 9346294730
+Email Id     : navya@gmail.com
+
+Contact Number : 7
+Name         : Gouse
+Phone Number : 8309247245
+Email Id     : shaikgouse0802@gmail.com
