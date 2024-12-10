@@ -12,4 +12,10 @@
 
 */
 
-#include<>
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	cout << "This is KP's touch";
+}
